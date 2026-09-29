@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+SmartForm is a Next.js App Router application for managing PDF form workflows. Supabase Auth and private Storage are connected. PDF analysis/generation and Safepay checkout are intentionally integration placeholders.
 
 ## Getting Started
 
